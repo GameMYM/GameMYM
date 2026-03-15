@@ -70,10 +70,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.pinimg.com/736x/42/03/37/42033722deefe4f5e249107f56e26cbe.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <a href="https://discord.com/users/1350852587116691468" target="_blank">
