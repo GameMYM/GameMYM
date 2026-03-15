@@ -85,7 +85,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GameMYM/GameMYM/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/GameMYM/output/snake.svg" alt="Snake animation" />
 
 ###
 
