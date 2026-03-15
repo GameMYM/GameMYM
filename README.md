@@ -70,7 +70,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://i.pinimg.com/736x/42/03/37/42033722deefe4f5e249107f56e26cbe.jpg"  />
 
 ###
 
@@ -85,7 +85,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/GameMYM/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/a0f0a3d2ab9631b370485e79018c48c67b139ab6/public/assets/snake.svg" alt="Snake animation" />
 
 ###
 
