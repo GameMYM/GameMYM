@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Languages</p>
+<h3 align="left">Languages</h3>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Softwares & tools</p>
+<h3 align="left">Softwares & tools</h3>
 
 ###
 
